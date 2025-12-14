@@ -19,19 +19,19 @@ uname -a
 ```bash
 free -h
 ```
-![Memory Info](../images/week1_freeh.png)
+![Memory Info](../Images/week1_freeh.png)
 
 ```bash
 ip addr
 ```
-![Network Info](../images/week1_ipaddr.png)
+![Network Info](../Images/week1_ipaddr.png)
 
 ```bash
 lsb_release -a
 ```
-![Release Info](../images/week1_lsb_release.jpeg)
+![Release Info](../Images/week1_lsb_release.jpeg)
 
 ```bash
 df -h
 ```
-![Disk Usage](../images/week1_df.png)
+![Disk Usage](../Images/week1_df.png)
