@@ -14,7 +14,7 @@ In Week 1, I explored the basic commands and configurations of the Ubuntu system
 ```bash
 uname -a
 ```
-![System Info](../images/week1_uname.png)
+![System Info](../Images/week1_uname.png)
 
 ```bash
 free -h
