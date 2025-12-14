@@ -11,4 +11,4 @@ In Week 2, I worked with package updates using APT and learned how to resolve up
 ```bash
 sudo apt update
 ```
-![APT update output](../images/week2_aptupdate.png)
+![APT update output](../Images/week2_aptupdate.png)
