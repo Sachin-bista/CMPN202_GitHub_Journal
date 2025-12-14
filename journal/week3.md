@@ -8,5 +8,5 @@ Focused on installing necessary benchmarking tools and resolving package issues.
 ```bash
 sudo apt install stress-ng fio iperf3 nginx sysstat -y
 ```
-![Package Install](../images/week3_package_install.jpeg)
+![Package Install](../Images/week3_package_install.jpeg)
 
